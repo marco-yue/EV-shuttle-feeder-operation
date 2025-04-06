@@ -1,4 +1,4 @@
-# Transportation Network Simulation Project
+# On-line Electric Feeder system into city-scale Multimodal Transit Networks
 
 This repository contains a collection of Jupyter Notebook files that simulate and analyze different aspects of a transportation system. The project is organized into four main notebooks:
 
